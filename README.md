@@ -1,10 +1,10 @@
 # Project Portfolio Dashboard
 
-**Project ID:** SP-343
-**Developer:** Badiru Miqdad
-**Matric Number:** U23CS1044
-**Course:** Software Engineering (CSC 403), Individual Project
-
+- **Project ID:** SP-343
+- **Developer:** Badiru Miqdad
+- **Matric Number:** U23CS1044
+- **Course:** Software Engineering (CSC 403), Individual Project
+  
 A web-based application that helps organisations manage and monitor multiple projects from a centralised platform.
 
 ## Objectives
